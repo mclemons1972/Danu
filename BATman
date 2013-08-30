@@ -1,3 +1,5 @@
+//small code snippet to run a .bat file in this example I am using game.bat from quake 3 source code.
+
 #define WIN32_LEAN_AND_MEAN
 #include <windows.h>
 #include <tchar.h>
